@@ -5,4 +5,4 @@ An AM radio designed to be used with a long wire ham radio antenna. Based on a d
 
 ![alt text](https://github.com/ianm8/H.AM-Radio/blob/main/docs/H.AM-Radio-13.jpg?raw=true)
 
-[![IMAGE ALT TEXT HERE](https://github.com/ianm8/H.AM-Radio/blob/main/docs/H.AM-Radio-Video.png)](https://www.youtube.com/watch?v=DbrgfCGGPFuMO1Ea)
+[![IMAGE ALT TEXT HERE](https://github.com/ianm8/H.AM-Radio/blob/main/docs/H.AM-Radio-Video.png)](https://www.youtube.com/watch?v=QSUpjRE452E)
